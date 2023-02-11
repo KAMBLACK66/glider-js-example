@@ -1,3 +1,3 @@
 # glider-js-example
 
-https://raw.githubusercontent.com/KAMBLACK66/glider-js-example/img/thumb.png
+![Carousel Responsive Fácilmente con Glider.js](https://github.com/KAMBLACK66/glider-js-example/tree/main/img)
